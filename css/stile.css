@@ -23,6 +23,7 @@ h1{
     font-size: 32px;
 }
 p{
+    text-align: center;
     font-size: 22px;
 }
 .btn-1{
@@ -79,6 +80,8 @@ input{
         width: 322px;
         height: 266px;
     }
-    input {width: 90%;}
-    .btn-2 {margin: 14px 0;}    
+    p{font-size: 18px;}
+    input {width: 80%;}
+    .btn-2 {margin: 14px 0;
+        width: 157px;}    
 }
