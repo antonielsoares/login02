@@ -15,9 +15,7 @@
     background-color: black;
 }
 .txt-1{
-    
     width: 444px;
-    
     margin-left: auto;
     margin-right: auto;
     margin-top: 225px;
@@ -25,6 +23,7 @@
     color: white;
 }
 h1{
+    margin: 33px 0;
     font-size: 32px;
 }
 p{
