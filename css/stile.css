@@ -1,0 +1,79 @@
+.painel{
+    display: inline-flex;
+    width: 100%;
+    height: 628px;
+}
+.esq{
+    margin: left;
+    width: 50%;
+    height: 100%;
+    background-color: black;
+}
+.txt-1{
+    
+    width: 444px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 225px;
+    text-align: center;
+    color: white;
+}
+h1{
+    font-size: 32px;
+}
+p{
+    font-size: 22px;
+}
+.btn-1{
+    width: 166px;
+    height: 33px;
+    cursor: pointer;
+}
+/*****************************************************************/
+.dire{
+    width: 50%;
+    background-color: rgb(214, 212, 212);
+    margin: right;
+}
+h2{
+    font-size: 37px;
+    text-align: center;
+}
+.quadro{
+    width: 333px;
+    margin: 240px auto;
+}
+nav{
+    
+}
+input{
+    padding: 5px;
+    width: 100%;
+    margin-top: 10px;
+}
+.btn-2{
+    color: white;
+    background-color: rgb(46, 45, 45);
+    width: 277px;
+    margin: 14px 10%;
+}
+
+@media screen and (max-width: 875px) {
+    .painel{
+        display: block;
+    }    
+    .esq{
+        display: flex;
+        margin: 0 auto;
+        width: 100%;
+    }
+    .dire{
+        display: flex;
+        width: 100%;
+        height: 100%;
+        
+        
+    }   
+    
+}
