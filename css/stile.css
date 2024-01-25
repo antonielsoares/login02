@@ -90,5 +90,7 @@ input{
     }
     p{font-size: 18px;}
     input {width: 80%;}
-    .btn-2 {margin: 14px 0;}    
+    .btn-2 {
+        width: 83%;
+        }    
 }
